@@ -1,0 +1,20 @@
+{
+  "name": "tailwindportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./index.css -o ./tailwind.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akosilar/tailwindPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akosilar/tailwindPortfolio/issues"
+  },
+  "homepage": "https://github.com/akosilar/tailwindPortfolio#readme"
+}
